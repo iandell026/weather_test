@@ -6,18 +6,18 @@ Este projeto é uma aplicação simples, que faz parte da atividade G2 da discip
 #### HTML
 #### CSS
 #### JavaScript
-#### WeatherAPI
 
 ## 📋 Pré-requisitos
 Chave de API da WeatherAPI
 
 ## 🚀 Como Executar o Projeto
 
-Crie uma conta gratuita em (https://www.weatherapi.com).
+Crie uma conta gratuita no [site](https://www.weatherapi.com).
+
 Gere sua chave de API.
 
 ### Clone o repositório:
-git clone <[URL_DO_REPOSITORIO](https://github.com/iandell026/weather_test.git)>
+`git clone https://github.com/iandell026/weather_test.git`
 
 ### Configurar a Chave de API
 
